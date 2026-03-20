@@ -6,22 +6,22 @@
         <button type="picture" icon="camera_32x32" />
       </row>
       <row>
-        <button type="tag" label="Árbol" icon="Parque Palmares_icons/2719880.png"/>
-        <button type="tag" label="Señal de tráfico" icon="Parque Palmares_icons/858319.png"/>
-        <button type="tag" label="Cámara de seguridad" icon="Parque Palmares_icons/890141.png"/>
+        <button type="tag" label="Árbol" icon="Parque_Palmares_icons/2719880.png"/>
+        <button type="tag" label="Señal de tráfico" icon="Parque_Palmares_icons/858319.png"/>
+        <button type="tag" label="Cámara de seguridad" icon="Parque_Palmares_icons/890141.png"/>
       </row>
       <row>
-        <button type="tag" label="Poste de luz" icon="Parque Palmares_icons/1245927.png"/>
-        <button type="tag" label="Mesa" icon="Parque Palmares_icons/3100544.png"/>
-        <button type="tag" label="Basurero" icon="Parque Palmares_icons/3143497.png"/>
+        <button type="tag" label="Poste de luz" icon="Parque_Palmares_icons/1245927.png"/>
+        <button type="tag" label="Mesa" icon="Parque_Palmares_icons/3100544.png"/>
+        <button type="tag" label="Basurero" icon="Parque_Palmares_icons/3143497.png"/>
       </row>
       <row>
-        <button type="tag" label="Banca" icon="Parque Palmares_icons/4205381.png"/>
-        <button type="tag" label="Escultura" icon="Parque Palmares_icons/5830701.png"/>
-        <button type="tag" label="Parada de taxis" icon="Parque Palmares_icons/5900437.png"/>
+        <button type="tag" label="Banca" icon="Parque_Palmares_icons/4205381.png"/>
+        <button type="tag" label="Escultura" icon="Parque_Palmares_icons/5830701.png"/>
+        <button type="tag" label="Parada de taxis" icon="Parque_Palmares_icons/5900437.png"/>
       </row>
       <row>
-        <button type="tag" label="Camino interno" icon="Parque Palmares_icons/426171.png"/>
+        <button type="tag" label="Camino interno" icon="Parque_Palmares_icons/426171.png"/>
       </row>
   </layout>
 </layouts>
