@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata layout="Parque Palmares">
+<metadata layout="Parque_Palmares">
    <option iso="es" name="Español">Español layout</option>
    <github username="OSMLayoutSmith" repo="osmtracker-custom-layouts" branch="master" />
 </metadata>
